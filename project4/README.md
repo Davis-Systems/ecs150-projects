@@ -26,6 +26,10 @@ to work with and illusion they provide to software running above.
 
 ## Distributed File System
 
+**The distributed file system component is optional this quarter.** You
+should focus on implementing and testing the local file system, described
+below.
+
 ### Background
 The main idea behind a distribute file system is that you can have
 multiple clients access the same file system at the same time. One
